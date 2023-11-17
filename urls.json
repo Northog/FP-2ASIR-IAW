@@ -1,5 +1,41 @@
 [
     {
+        "name": "Gonzalo M",
+        "url": "https://github.com/Daxter555290"
+    },
+    {
+        "name": "Jorge Moreno",
+        "url": "https://github.com/jorgejmm"
+    },
+    {
+        "name": "Mario",
+        "url": "https://github.com/mrubio03"
+    },
+    {
+        "name": "Armando D",
+        "url": "https://github.com/Arma91"
+    },
+    {
+        "name":"Kevin Montes Montoya",
+        "url":"https://github.com/Viskits"
+    },
+    {
+        "name": "Daniel Salazar",
+        "url": "https://github.com/dantux18"
+    },
+    {
+        "name":"Diego B",
+        "url": "https://github.com/diego29a"
+    },
+    {
+        "name": "Mario A",
+        "url": "https://github.com/MaoMario"
+    },
+    {
+        "name": "Rubén García Lara",
+        "url": "https://github.com/rubenglara"
+    },
+    {
         "name": "Alex",
         "url": "https://github.com/PlazzaTK"
     },
@@ -17,7 +53,7 @@
     },
     {
         "name": "Fabrizio T",
-        "url": "https://github.com/Darksite2002/FP-2ASIR-IAW"
+        "url": "https://github.com/Darksite2002"
     },
     {
         "name": "Javier M",
@@ -25,6 +61,10 @@
     },
     {
         "name": "Oscar Salazar",
-        "url": "https://github.com/Northog/FP-2ASIR-IAW"
+        "url": "https://github.com/Northog"
+    },
+    {
+        "name": "Ruben Pino",
+        "url": "https://github.com/RubenCDL/resume.git"
     }
 ]
